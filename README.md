@@ -11,3 +11,5 @@ Focus:
 - identity built onchain
 
 gm.
+- Posted GM on inkonchain
+- Exploring GM leaderboard mechanics
