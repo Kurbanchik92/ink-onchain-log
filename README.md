@@ -13,3 +13,7 @@ Focus:
 gm.
 - Posted GM on inkonchain
 - Exploring GM leaderboard mechanics
+
+gm.
+- Posted GM on inkonchain
+- offer | PWN
